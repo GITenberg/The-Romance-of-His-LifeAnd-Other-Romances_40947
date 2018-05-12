@@ -1,0 +1,31 @@
+_repo: The-Romance-of-His-LifeAnd-Other-Romances_40947
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cholmondeley, Mary
+    birthdate: 1859
+    deathdate: 1925
+    gutenberg_agent_id: '5732'
+    url: http://www.gutenberg.org/2009/agents/5732
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Cholmondeley
+description: ''
+gutenberg_issued: '2012-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40947'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+tableOfContents: Introduction -- The romance of his life -- The dark cottage -- The
+  ghost of a chance -- The goldfish -- The stars in their courses -- Her murderer
+  -- Votes for men -- The end of the dream.
+title: The Romance of His Life, and Other Romances
+url: http://www.gutenberg.org/ebooks/40947
