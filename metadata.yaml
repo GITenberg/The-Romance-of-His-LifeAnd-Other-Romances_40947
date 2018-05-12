@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5732
     wikipedia: http://en.wikipedia.org/wiki/Mary_Cholmondeley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40947#The-Romance-of-His-LifeAnd-Other-Romances
 gutenberg_issued: '2012-10-05'
 gutenberg_type: Text
 identifiers:
